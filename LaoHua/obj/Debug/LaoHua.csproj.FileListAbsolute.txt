@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\bin\Debug\LaoHua.dll
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\bin\Debug\LaoHua.pdb
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\obj\Debug\LaoHua.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\obj\Debug\LaoHua.csproj.CopyComplete
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\obj\Debug\LaoHua.dll
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\obj\Debug\LaoHua.pdb
+C:\Users\Administrator\source\repos\LaoHua\LaoHua\obj\Debug\LaoHua.csprojAssemblyReference.cache
